@@ -1,0 +1,6 @@
+owner=532794277210750987
+prefix=!
+game=LoydMusic
+stayinchannel=true
+songinstatus=false
+token=NTMzOTQ3MTcyMjUzODU5ODc4.Dxyc5g.UiXaPntY8e3KwrNM-QotUHDU7w4
